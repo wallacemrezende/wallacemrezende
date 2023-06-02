@@ -11,6 +11,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacemrezende&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
 ![Cumcumber](https://img.shields.io/badge/-Cumcumber-05122A?style=flat&logo=cucumber)
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
