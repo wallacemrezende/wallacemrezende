@@ -1,7 +1,7 @@
 ### Hi there, i'm Wallace Rezende 👋
 
 - 🔭 I’m currently working on Quality Assurance
-- 🌱 I’m currently learning English, Python
+- 🌱 I’m currently learning English, ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 - 💬 Ask me about Software testing
 - 📫 How to reach me: wallace_rezende@outlook.com
 
@@ -11,19 +11,17 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacemrezende&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Wallace-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wallace-cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
-  <img align="center" alt="Wallace-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Wallace-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Wallace-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"> 
-  <img align="center" alt="Wallace-Cypress" height="40" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">  
-</div>
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
+![Cumcumber](https://img.shields.io/badge/-Cumcumber-05122A?style=flat&logo=cucumber)
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Jmeter](https://img.shields.io/badge/-Jmeter-05122A?style=flat&logo=jmeter)
   
  ##
   
 <div> 
-<a href = "mailto:wallace_rezende@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/wallacemrezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:wallace_rezende@outlook.com"><img src="https://img.shields.io/badge/-Outlook-05122A?style=flat&logo=microsoftoutlook" target="_blank"></a>  <a href="https://www.linkedin.com/in/wallacemrezende/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=LinkedIn" target="_blank"></a> 
   </div>
   
  ![Snake animation](https://github.com/wallacemrezende/wallacemrezende/blob/output/github-contribution-grid-snake.svg)
