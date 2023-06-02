@@ -17,6 +17,7 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitMQ)  
 
   
  ##
