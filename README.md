@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Quality Assurance
 - 🌱 I’m currently learning English, ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 - 💬 Ask me about Software testing
+- Under Construction
 
 <div align="center">
   <a href="https://github.com/wallacemrezende">
