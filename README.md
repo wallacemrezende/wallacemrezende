@@ -15,7 +15,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5) 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)   
-![Cumcumber](https://img.shields.io/badge/-Cumcumber-05122A?style=flat&logo=cucumber)
+![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber)
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
